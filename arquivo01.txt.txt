@@ -15,3 +15,5 @@ namespace Aula_8
                 Console.WriteLine(i);
             }
             Console.ReadLine();
+
+----------------------------------
